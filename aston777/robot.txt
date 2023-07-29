@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://belalhamidehlaw.com/-/aston777/sitemap.xml
