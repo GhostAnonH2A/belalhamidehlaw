@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://belalhamidehlaw.com/-/linetogel/sitemap.xml
